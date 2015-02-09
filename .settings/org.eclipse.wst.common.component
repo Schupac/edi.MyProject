@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="edi.AvtoFactory">
+        <wb-resource deploy-path="/" source-path="/ejbModule" tag="defaultRootSource"/>
+        <property name="java-output-path" value="/edi.AvtoFactory/build/classes"/>
+        <property name="ClientProject" value="edi.AvtoFactoryClient"/>
+        <property name="ClientJARURI" value="edi.AvtoFactoryClient.jar"/>
+    </wb-module>
+</project-modules>
